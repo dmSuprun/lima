@@ -4,7 +4,7 @@ main{
     position: relative;
 }
 .intro__image{
-    background-image: url("./img/intro.jpg");
+    background-image: url("https://github.com/dmSuprun/lima/blob/master/img/intro.jpg");
     background-size: cover;
     width: 100%;
     height: 700px;
@@ -69,7 +69,7 @@ main{
 
 }
 .first__slider__image{
-    background-image: url("/img/pleasure_woman2.jpg");
+    background-image: url("https://github.com/dmSuprun/lima/blob/master/img/pleasure_woman2.jpg");
     background-repeat: no-repeat;
 
     width: 100%;
@@ -79,7 +79,7 @@ main{
 
 }
 .second__slider__image{
-    background-image: url("/img/pleasure_woman1.jpg");
+    background-image: url("https://github.com/dmSuprun/lima/blob/master/img/pleasure_woman1.jpg");
     background-repeat: no-repeat;
     height: 510px;
 
@@ -131,7 +131,7 @@ main{
 
 }
 .second__slider__first__image{
-    background-image: url("/img/kosmetika.png");
+    background-image: url("https://github.com/dmSuprun/lima/blob/master/img/kosmetika.png");
     background-repeat: no-repeat;
 
     width: 40%;
@@ -163,7 +163,7 @@ main{
 }
 
 .third__slider__first__image{
-    background-image: url("/img/section_3.jpg");
+    background-image: url("https://github.com/dmSuprun/lima/blob/master/img/section_3.jpg");
     background-size: cover;
     width: 100%;
     height: 600px;
@@ -190,7 +190,7 @@ main{
 }
 
 .fourth__slider__first__image{
-    background-image: url("/img/founder.jpg");
+    background-image: url("https://github.com/dmSuprun/lima/blob/master/img/founder.jpg");
     background-size: cover;
     height: 400px;
     width: 100%;
