@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="790ef0c4-ed41-4eb6-bfba-1846c44e1e9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/lab_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/founder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/intro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kosmetika.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pleasure_woman1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pleasure_woman2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/section_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social_media/f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social_media/ins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social_media/ln.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social_media/p.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social_media/yt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +82,9 @@
       <workItem from="1761029263280" duration="2159000" />
       <workItem from="1761032071223" duration="6794000" />
       <workItem from="1761402249976" duration="5358000" />
-      <workItem from="1761506394711" duration="1042000" />
+      <workItem from="1761506394711" duration="1356000" />
+      <workItem from="1761509804309" duration="3000" />
+      <workItem from="1761509870791" duration="301000" />
     </task>
     <servers />
   </component>
