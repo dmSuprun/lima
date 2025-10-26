@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="790ef0c4-ed41-4eb6-bfba-1846c44e1e9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/lab_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/founder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/intro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kosmetika.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pleasure_woman1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pleasure_woman2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/section_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/social_media/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/social_media/ins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/social_media/ln.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/social_media/p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/social_media/yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="34K68OXoZpG0ULvarN7f4pmkIzq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebstormProjects\lab_4\img\social_media" />
+      <recent name="E:\WebstormProjects\lab_4\img" />
+      <recent name="E:\WebstormProjects\lab_4\kosmetika" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="{" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="790ef0c4-ed41-4eb6-bfba-1846c44e1e9a" name="Changes" comment="" />
+      <created>1760949755548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760949755548</updated>
+      <workItem from="1760949757971" duration="868000" />
+      <workItem from="1760978624197" duration="4092000" />
+      <workItem from="1760982905813" duration="6851000" />
+      <workItem from="1761029263280" duration="2159000" />
+      <workItem from="1761032071223" duration="6794000" />
+      <workItem from="1761402249976" duration="5358000" />
+      <workItem from="1761506394711" duration="1042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

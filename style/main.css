@@ -1,0 +1,292 @@
+
+main{
+    width: 100%;
+    position: relative;
+}
+.intro__image{
+    background-image: url("/img/intro.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    z-index: -1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: var(--margin-blocks);
+}
+.buttons__image{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.logo__image{
+    font-style: var(--font-family-h);
+    font-weight: 400;
+    letter-spacing: 0.81px;
+    font-size: var(--logo-text-sz);
+    color: var(--nav-link-font-color-active);
+    margin-bottom: var(--padding-left-nav);
+
+}
+.text__image{
+    font-family: var(--font-family-nav);
+    font-size: var(--logo-p-sz);
+    color: white;
+    text-align: center;
+    margin-bottom: var(--padding-left-nav);
+    line-height:20px;
+
+}
+
+.button__image{
+    margin-right: var(--padding-left-nav);
+    padding: var(--padding-logo-bt);
+
+}
+.button__image a{
+    color: var(--nav-link-font-color-active);
+    font-style: var(--font-family-nav);
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+.button__image:hover{
+    border: 1px solid var(--nav-link-font-color-active);
+    transition-duration: 0.3s;
+
+}
+
+/*з лого всьо*/
+
+.first__slider{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.first__slider__image{
+    background-image: url("/img/pleasure_woman2.jpg");
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 510px;
+    margin-right: 10px;
+
+
+}
+.second__slider__image{
+    background-image: url("/img/pleasure_woman1.jpg");
+    background-repeat: no-repeat;
+    height: 510px;
+
+    width: 100%;
+}
+
+/* Текст на картінках*/
+.first__slider__image, .second__slider__image{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.text_slider{
+    width: 100%;
+}
+.center__image{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.first__slider_logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--font-family-nav);
+    font-size: var(--logo-font-sz);
+    color: white;
+    width: 100%;
+
+    padding-bottom: var(--padding-logo-bt);
+
+}
+.first__slider{
+    margin-bottom: var(--margin-blocks);
+}
+.second__slider{
+    width: 100%;
+    height: 610px;
+    background-color: black;
+    margin-bottom: var(--margin-blocks);
+
+
+}
+.second__slider__first__image{
+    background-image: url("/img/kosmetika.png");
+    background-repeat: no-repeat;
+
+    width: 40%;
+    height: 400px;
+    margin: 0 auto;
+
+}
+.second__slider_text{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.temp{
+    width: 50%;
+}
+.additional_for_second{
+    padding-top: 30px;
+}
+
+/*third one*/
+.third__slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: var(--margin-blocks);
+}
+
+.third__slider__first__image{
+    background-image: url("/img/section_3.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.third__text{
+    font-family: var(--font-family-h);
+    font-size: 38px;
+    line-height:20px;
+
+
+}
+.third_button{
+    font-family: var(--font-family-h);
+}
+
+/*fourth */
+.fourth__slider{
+    width: 100%;
+    height: 400px;
+}
+
+.fourth__slider__first__image{
+    background-image: url("/img/founder.jpg");
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+.text__image__fourth{
+    text-align: start;
+    color: var(--color-fourth-text);
+    margin-bottom: 20px;
+    padding-bottom: 0;
+}
+.fourth__text_conatainer{
+    padding-left: 300px;
+}
+
+.title__logo{
+    font-family: var(--font-family-h);
+    font-size: var(--logo-font-sz);
+    font-weight:400;
+    margin-bottom: 30px;
+}
+.button_fourth a{
+    color: var(--color-button-fourth);
+    letter-spacing: 2px;
+    font-family: var(--font-family-nav);
+}
+
+.button_fourth a:hover{
+    display: inline-block;
+    border: 1px solid var(--color-button-fourth);
+    padding: 5px;
+    transition:  0.3s ease;
+}
+/*5*/
+.fifth__slider{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.slider{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.slide_el{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 20%;
+    height: 100%;
+    font-family: var(--font-family-h);
+}
+.slide__text{
+    margin-bottom: 40px;
+    font-size: 25px;
+
+}
+.slide__logo{
+    font-size: 30px;
+}
+.decorative__element{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.decorative__element__image{
+    margin-right: 10px;
+    height: 10px;
+    width: 10px;
+    background-color: var(--color-fourth-text);
+}
+.selected_slide{
+    background-color: black;
+}
+.teleg{
+    font-family: var(--font-family-slide-telegraph);
+    font-weight: 900;
+}
+.forbes{
+    font-weight: 400;
+    font-family: var(--font-family-slide-forbes);
+}
+.ft{
+    color: var(--color-fourth-text);
+    font-weight: 600;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Titan+One&family=UnifrakturMaguntia&display=swap');
+
+
+:root {
+
+    --font-family-nav: "Montserrat", sans-serif;;
+    --font-family-h:"Roboto", sans-serif;
+    --font-family-slide-telegraph:"UnifrakturMaguntia", cursive;
+    --font-family-slide-forbes:"Titan One", sans-serif;;
+
+    font-style: normal;
+    --font-size-nav: 14px;
+    --logo-font-sz: 36px;
+    --logo-text-sz: 57px;
+    --logo-p-sz: 16px;
+    --color-fourth-text:#666666;
+    --color-button-fourth:#1B1B1B;
+    --color-for-footer-links:#7E7E7E;
+
+    --nav-link-letter-spacing:1.67px;
+
+
+
+    --nav-link-font-color: #0000004D;
+    --nav-link-font-color-hover: #000000;
+    --nav-link-font-color-active: #fff;
+    --nav-link-size-hover:10px;
+
+
+
+    --padding-left-nav: 80px;
+    --margins-nav: 20px;
+    --padding-logo-bt: 20px;
+    --margin-blocks:10px;
+
+
+
+}
