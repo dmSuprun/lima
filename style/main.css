@@ -4,7 +4,7 @@ main{
     position: relative;
 }
 .intro__image{
-    background-image: url("https://github.com/dmSuprun/lima/blob/master/img/intro.jpg");
+    background-image: url("../img/intro.jpg");
     background-size: cover;
     width: 100%;
     height: 700px;
