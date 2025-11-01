@@ -114,6 +114,11 @@ main {
     margin-right: 10px;
 
 
+    max-width: 100%;
+    height: auto;
+    display: block;
+
+
 }
 
 .second__slider__image {
@@ -122,6 +127,9 @@ main {
     height: 510px;
 
     width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 /* Текст на картінках*/

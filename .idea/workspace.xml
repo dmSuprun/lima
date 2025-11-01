@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="790ef0c4-ed41-4eb6-bfba-1846c44e1e9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/style/burger.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +94,14 @@
       <workItem from="1761560738849" duration="584000" />
       <workItem from="1761562297868" duration="126000" />
       <workItem from="1761562805396" duration="400000" />
-      <workItem from="1761581712363" duration="3545000" />
+      <workItem from="1761581712363" duration="3744000" />
+      <workItem from="1761636821228" duration="418000" />
+      <workItem from="1761722204670" duration="18000" />
+      <workItem from="1761722512224" duration="146000" />
+      <workItem from="1761722779426" duration="608000" />
+      <workItem from="1761723858110" duration="208000" />
+      <workItem from="1761737590821" duration="1231000" />
+      <workItem from="1762001561104" duration="6609000" />
     </task>
     <servers />
   </component>

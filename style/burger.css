@@ -1,0 +1,35 @@
+.menu-toggle,.nav_burger_el {
+    display: none;
+}
+.burger {
+    display: none;
+    cursor: pointer;
+    width: 30px;
+    height: 20px;
+    position: relative;
+    z-index: 1001;
+}
+
+.burger span {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: #000; /* або білий якщо фон темний */
+    transition: 0.3s;
+}
+
+.burger span:nth-child(1) { top: 0; }
+.burger span:nth-child(2) { top: 8px; }
+.burger span:nth-child(3) { top: 16px; }
+.menu-toggle:checked + .burger span:nth-child(1) {
+    transform: rotate(45deg);
+    top: 8px;
+}
+.menu-toggle:checked + .burger span:nth-child(2) {
+    opacity: 0;
+}
+.menu-toggle:checked + .burger span:nth-child(3) {
+    transform: rotate(-45deg);
+    top: 8px;
+}

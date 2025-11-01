@@ -3,7 +3,88 @@
 @import "header.css";
 @import "main.css";
 @import "footer.css";
+@import "burger.css";
 
-body{
+body, html {
     padding: 0;
+}
+
+
+@media (max-width: 1100px) {
+    .logo > h1{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .nav__item *{
+        font-size: 10px;
+    }
+
+
+}
+@media (max-width: 1000px) {
+    .last_section{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 5vh;
+        width: 100%;
+    }
+    .footer__label, .footer_icons{
+        display: none;
+    }
+    .footer_input{
+        display: flex;
+        flex-direction: row;
+    }
+    #text_back{
+        height: 40px;
+        width: 300px;
+        padding: 0 5px;
+    }
+    .burger {
+        display: block;
+    }
+
+    .navbar__container {
+        display: none; /* ховаємо меню за замовчуванням */
+
+    }
+    .nav_burger_el {
+        display: none; /* ховаємо меню за замовчуванням */
+        flex-direction: column;
+        align-items: center;
+        background: #fff; /* або колір хедера */
+        position: absolute;
+        top: 60px;
+        left: 0;
+        right: 0;
+        padding: 10px 0;
+        z-index: 1000;
+    }
+
+
+    /* коли бургер увімкнено */
+    .menu-toggle:checked ~ .nav_burger_el {
+        display: flex;
+    }
+
+    .logo {
+        z-index: 1002;
+    }
+    .nav__item *:hover{
+        padding: 0;
+        background-color: rgba(0, 0, 0, 0);
+        color: var(--nav-link-font-color);
+        text-decoration: underline;
+        transition-duration:  0.3s;
+
+
+    }
+
+
+}
+@media (max-width: 900px) {
+
+
 }
