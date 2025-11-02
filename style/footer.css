@@ -85,4 +85,5 @@
 
     align-items: end;
     gap: 2em;
+    flex-wrap: wrap;
 }
