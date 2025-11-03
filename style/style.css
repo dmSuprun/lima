@@ -18,6 +18,9 @@ body, html {
     .nav__item *{
         font-size: 10px;
     }
+    .fourth__slider__first__image{
+        padding-right: 0;
+    }
 
 
 }
@@ -95,11 +98,7 @@ body, html {
 
 
     }
-    .text__image{
-        font-size: calc(var(--logo-p-sz)*0.8);
 
-
-    }
     .button__image a{
         font-size: calc(var(--logo-p-sz)*0.8);
 
@@ -114,14 +113,7 @@ body, html {
     .third__text{
         font-size: 30px;
     }
-    .title__logo{
-        font-size: calc(var(--logo-font-sz)*0.8);
 
-    }
-    .button_fourth a {
-
-        font-size: calc(var(--font-size-nav)*0.8);
-    }
 
     .slide__text {
         font-size: 20px;
@@ -149,10 +141,8 @@ body, html {
         left: 38%;
 
     }
-    .fourth__text_conatainer{
-        padding-left: 450px;
 
-    }
+
 
 }
 
@@ -175,7 +165,81 @@ body, html {
     .slider{
         gap: 20px;
     }
+    .logo__image {
+        font-size: calc(var(--logo-text-sz) * 0.6);
+    }
+    .third__text {
+        font-size: 20px;
+    }
+    .first__slider_logo {
+        font-size: calc(var(--logo-font-sz) * 0.6);
+    }
+    .fourth__text_conatainer{
+        display: none;
+    }
+    .media_750_fourth{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--nav-link-font-color-active);
+        margin-bottom: var(--margin-blocks);
+        background-color: #f5f5f5;
+        padding: var(--margin-blocks);
+    }
+    .button_fourth {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .br_rem{
+        display: none;
+    }
+    .title__logo{
+        text-align: center;
+    }
+
+    .title__logo{
+        font-size: calc(var(--logo-font-sz)*0.8);
+
+    }
+    .button_fourth a {
+
+        font-size: calc(var(--font-size-nav)*0.8);
+    }
 
 
 
+
+
+
+}
+@media (max-width: 500px) {
+    #text_back {
+
+        width: 200px;
+
+    }
+    .logo__image{
+        text-align: center;
+    }
+    .footer_input {
+
+        flex-direction: column;
+
+    }
+    .submit__button{
+        width: 200px;
+    }
+    .last_section {
+
+        justify-content: center;
+
+    }
+    .footer_icons{
+        display: block;
+    }
 }

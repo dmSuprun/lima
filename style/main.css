@@ -178,8 +178,9 @@ main {
 
 .second__slider {
     width: 100%;
-    height: 610px;
+    height: auto;
     background-color: black;
+    padding-bottom: var(--margin-blocks);
     margin-bottom: var(--margin-blocks);
 
 
@@ -248,7 +249,7 @@ main {
 /*fourth */
 .fourth__slider {
     width: 100%;
-    height: 400px;
+    height: auto;
 }
 
 .fourth__slider__first__image {
@@ -258,9 +259,15 @@ main {
     width: 100%;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
+    margin-bottom: var(--margin-blocks);
+    padding-right: 15em;
 
+
+}
+.media_750_fourth{
+    display: none;
 
 }
 
@@ -272,7 +279,6 @@ main {
 }
 
 .fourth__text_conatainer {
-    padding-left: 300px;
 }
 
 .title__logo {
