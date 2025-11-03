@@ -9,7 +9,16 @@ body, html {
     padding: 0;
 }
 
+@media (min-width: 1100px) {
+    .text__image__additional, .second__text__image__additional {
+        left: 37%;
+    }
+    .second__buttons__image__additional,.buttons__image__additional {
 
+        left: 37%;
+    }
+
+}
 @media (max-width: 1100px) {
     .logo > h1{
         font-size: 30px;
@@ -269,7 +278,7 @@ body, html {
         font-size: calc(var(--logo-p-sz)*0.8);
     }
 }
-@media (max-width: 350px) {
+@media (max-width: 365px) {
     .first__slider_logo {
         font-size: calc(var(--logo-font-sz) * 0.4);
     }
